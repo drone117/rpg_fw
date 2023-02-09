@@ -1,0 +1,1032 @@
+﻿Log file open, 02/08/23 21:11:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18172)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TopDownShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\TopDownShooter.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 5600X 6-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="49f705704cae0dfcadce7990fbcc506f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.184660
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C34FB6864B58051FC2D983ABFE0E94F4
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2486] (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.02.08-18.11.03:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.02.08-18.11.03:330][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.02.08-18.11.03:335][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.02.08-18.11.03:381][  0]LogD3D12RHI: Aftermath initialized
+[2023.02.08-18.11.03:381][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.02.08-18.11.03:536][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.02.08-18.11.03:536][  0]LogD3D12RHI: Adapter has 8038MB of dedicated video memory, 0MB of dedicated system memory, and 16355MB of shared system memory, 2 output[s]
+[2023.02.08-18.11.03:545][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.02.08-18.11.03:545][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16355MB of shared system memory, 0 output[s]
+[2023.02.08-18.11.03:545][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.02.08-18.11.03:545][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.08-18.11.03:546][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.02.08-18.11.03:547][  0]LogHAL: Display: Platform has ~ 32 GB [34300182528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.08-18.11.03:547][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.02.08-18.11.03:547][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.02.08-18.11.03:547][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.08-18.11.03:548][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.02.08-18.11.03:548][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Saved/Config/WindowsEditor/Editor.ini]
+[2023.02.08-18.11.03:548][  0]LogInit: Computer: DESKTOP-K4OR5D5
+[2023.02.08-18.11.03:548][  0]LogInit: User: Vindicator
+[2023.02.08-18.11.03:548][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.08-18.11.03:548][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.08-18.11.03:548][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.02.08-18.11.03:548][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.02.08-18.11.03:548][  0]LogMemory: Process Physical Memory: 277.61 MB used, 292.37 MB peak
+[2023.02.08-18.11.03:548][  0]LogMemory: Process Virtual Memory: 228.11 MB used, 228.11 MB peak
+[2023.02.08-18.11.03:548][  0]LogMemory: Physical Memory: 13854.29 MB used,  18856.91 MB free, 32711.20 MB total
+[2023.02.08-18.11.03:548][  0]LogMemory: Virtual Memory: 21323.24 MB used,  46203.96 MB free, 67527.20 MB total
+[2023.02.08-18.11.03:548][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.02.08-18.11.03:552][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.08-18.11.03:578][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.08-18.11.03:580][  0]LogInit: Using OS detected language (en-US).
+[2023.02.08-18.11.03:580][  0]LogInit: Using OS detected locale (en-US).
+[2023.02.08-18.11.03:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.02.08-18.11.03:767][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.08-18.11.03:784][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.02.08-18.11.03:784][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.02.08-18.11.03:784][  0]LogWindowsTextInputMethodSystem:   - Russian (Russia) - (Keyboard).
+[2023.02.08-18.11.03:784][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.08-18.11.03:822][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.08-18.11.03:822][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.08-18.11.05:480][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.02.08-18.11.05:483][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.02.08-18.11.05:483][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.02.08-18.11.05:547][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.02.08-18.11.05:587][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.02.08-18.11.05:595][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.02.08-18.11.05:609][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.02.08-18.11.05:632][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.02.08-18.11.05:632][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.08-18.11.05:660][  0]LogWindows: Attached monitors:
+[2023.02.08-18.11.05:660][  0]LogWindows:     resolution: 1920x1200, work area: (0, 0) -> (1920, 1160), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.02.08-18.11.05:660][  0]LogWindows:     resolution: 1920x1200, work area: (1920, 0) -> (3840, 1160), device: '\\.\DISPLAY2'
+[2023.02.08-18.11.05:660][  0]LogWindows: Found 2 attached monitors.
+[2023.02.08-18.11.05:660][  0]LogWindows: EnumDisplayDevices:
+[2023.02.08-18.11.05:660][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.02.08-18.11.05:660][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.02.08-18.11.05:660][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.02.08-18.11.05:660][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.02.08-18.11.05:660][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.02.08-18.11.05:660][  0]LogRHI: Texture pool is 4580 MB (70% of 6543 MB)
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI: Async texture creation enabled
+[2023.02.08-18.11.05:660][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.02.08-18.11.05:685][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.02.08-18.11.05:695][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/TopDownShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/TopDownShooter.uproject"  -platform=all'
+[2023.02.08-18.11.05:695][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/TopDownShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/TopDownShooter.uproject"  -platform=all" ]
+[2023.02.08-18.11.05:729][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.02.08-18.11.05:759][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.02.08-18.11.05:759][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.08-18.11.05:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.08-18.11.05:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.02.08-18.11.05:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.02.08-18.11.05:791][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.02.08-18.11.05:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.08-18.11.05:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.08-18.11.05:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.08-18.11.05:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.02.08-18.11.05:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.08-18.11.05:795][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.08-18.11.05:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.02.08-18.11.05:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.02.08-18.11.05:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.02.08-18.11.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.08-18.11.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.08-18.11.05:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.08-18.11.05:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.02.08-18.11.05:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.08-18.11.05:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.08-18.11.05:806][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.02.08-18.11.05:842][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.08-18.11.05:844][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.02.08-18.11.05:844][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.02.08-18.11.05:844][  0]LogTargetPlatformManager:   ADPCM
+[2023.02.08-18.11.05:844][  0]LogTargetPlatformManager:   PCM
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager:   BINKA
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager:   OGG
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.02.08-18.11.05:847][  0]LogTargetPlatformManager:   OPUS
+[2023.02.08-18.11.06:014][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.02.08-18.11.06:021][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.02.08-18.11.06:027][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.02.08-18.11.06:027][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.08-18.11.06:030][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.02.08-18.11.06:033][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.08-18.11.06:033][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.02.08-18.11.06:036][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.02.08-18.11.06:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.08-18.11.06:040][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.02.08-18.11.06:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.08-18.11.06:040][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.02.08-18.11.06:065][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.02.08-18.11.06:065][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.08-18.11.06:065][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.02.08-18.11.06:070][  0]LogDerivedDataCache: Speed tests for C:/Users/Vindicator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.02.08-18.11.06:070][  0]LogDerivedDataCache: Display: Performance to C:/Users/Vindicator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1963.44MBs, RandomWriteSpeed=266.29MBs. Assigned SpeedClass 'Local'
+[2023.02.08-18.11.06:071][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vindicator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.08-18.11.06:071][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.08-18.11.06:071][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.02.08-18.11.06:077][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.02.08-18.11.06:077][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.02.08-18.11.06:082][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Intermediate/Shaders/WorkingDirectory/8624/).
+[2023.02.08-18.11.06:082][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vindicator/AppData/Local/Temp/UnrealShaderWorkingDir/E632BC2B49C467FD0B3D7AB26A861F93/'.
+[2023.02.08-18.11.06:083][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.08-18.11.06:083][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.02.08-18.11.09:217][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.08-18.11.09:227][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.08-18.11.09:275][  0]LogAssetRegistry: FAssetRegistry took 0.0146 seconds to start up
+[2023.02.08-18.11.09:292][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.02.08-18.11.09:519][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.02.08-18.11.09:524][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.02.08-18.11.09:777][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.02.08-18.11.09:777][  0]LogDeviceProfileManager: Active device profile: [0000043F30BD6AC0][0000043F270D0000 50] WindowsEditor
+[2023.02.08-18.11.09:777][  0]LogDeviceProfileManager: Profiles: [0000043F30BD6580][0000043F270D2800 50] Windows, [0000043F30BD6AC0][0000043F270D0000 50] WindowsEditor, [0000043F30BD4440][0000043F270DA000 50] WindowsServer, [0000043F30BD2140][0000043F172B7800 50] WindowsClient, [0000043F30BD2D80][0000043F27087800 50] IOS, [0000043F30BD2BC0][0000043F270D5000 50] iPadAir2, [0000043F30BD6E40][0000043F30E20000 50] IPadPro, [0000043F30BD71C0][0000043F30E22800 50] iPadAir3, [0000043F30BD5080][0000043F30E27800 50] iPadAir4, [0000043F30BD32C0][0000043F30E2A000 50] iPadMini4, [0000043F30BD2F40][0000043F30E2C800 50] iPadMini5, [0000043F30BD3B80][0000043F27085000 50] iPadMini6, [0000043F30BDA480][0000043F30EB2800 50] iPhone6S, [0000043F30BDA800][0000043F30EB0000 50] iPhone7, [0000043F30BDAB80][0000043F30EB5000 50] iPodTouch7, [0000043F30BD8180][0000043F30EBA000 50] iPhone6SPlus, [0000043F30BD7000][0000043F30EBC800 50] iPhone7Plus, [0000043F30BD1F80][0000043F30E25000 50] iPhoneSE, [0000043F30BD55C0][0000043F30EB7800 50] iPhone8, [0000043F30BD40C0][0000043F30EA0000 50] iPhone8Plus, [0000043F30BD4280][0000043F30EA5000 50] iPhoneX, [0000043F30BD8C00][0000043F30EA7800 50] iPhoneXS, [0000043F30BD4EC0][0000043F30EAA000 50] iPhoneXSMax, [0000043F30BD2300][0000043F30EAC800 50] iPhoneXR, [0000043F30BDA640][0000043F291AC800 50] iPhone11, [0000043F30BD7380][0000043F30EC0000 50] iPhone11Pro, [0000043F30BD3800][0000043F30EC5000 50] iPhone11ProMax, [0000043F30BD5780][0000043F30EC7800 50] iPhoneSE2, [0000043F30BD8DC0][0000043F30ECA000 50] iPhone12Mini, [0000043F30BD6200][0000043F30ECC800 50] iPhone12, [0000043F30BD9BC0][0000043F30EA2800 50] iPhone12Pro, [0000043F30BD4B40][0000043F30EE0000 50] iPhone12ProMax, [0000043F30BD3640][0000043F30EE5000 50] iPhone13Mini, [0000043F30BD5CC0][0000043F30EE7800 50] iPhone13, [0000043F30BD9300][0000043F30EEA000 50] iPhone13Pro, [0000043F30BD24C0][0000043F30EEC800 50] iPhone13ProMax, [0000043F30BD4D00][0000043F30EC2800 50] iPadPro105, [0000043F30BD7C40][0000043F30EF0000 50] iPadPro129, [0000043F30BD7E00][0000043F30EF5000 50] iPadPro97, [0000043F30BD01C0][0000043F30EF7800 50] iPadPro2_129, [0000043F30BD94C0][0000043F30EFA000 50] iPad5, [0000043F30BD7A80][0000043F30EFC800 50] iPad6, [0000043F30BD8880][0000043F30EE2800 50] iPad7, [0000043F30BD9140][0000043F30F00000 50] iPad8, [0000043F30BD2A00][0000043F30F05000 50] iPad9, [0000043F30BDA2C0][0000043F30F07800 50] iPadPro11, [0000043F30BD6040][0000043F30F0A000 50] iPadPro2_11, [0000043F30BD5400][0000043F30F0C800 50] iPadPro3_11, [0000043F30BD1180][0000043F30EF2800 50] iPadPro3_129, [0000043F30BD8F80][0000043F30F10000 50] iPadPro4_129, [0000043F30BD7FC0][0000043F30F15000 50] iPadPro5_129, [0000043F30BD8A40][0000043F30F17800 50] AppleTV, [0000043F30BD2840][0000043F30F1A000 50] AppleTV4K, [0000043F30BD3480][0000043F30F1C800 50] TVOS, [0000043F30BDBEC0][0000043F30F30000 50] Mac, [0000043F30BDC240][0000043F30F32800 50] MacEditor, [0000043F30BD4600][0000043F30F37800 50] MacClient, [0000043F30BD9680][0000043F30F3A000 50] MacServer, [0000043F30BDC5C0][0000043F30F02800 50] Linux, [0000043F30BDC940][0000043F30F12800 50] LinuxEditor, [0000043F30BD6C80][0000043F30F3C800 50] LinuxArm64Editor, [0000043F30BD5240][0000043F30F20000 50] LinuxArm64, [0000043F30BD3D40][0000043F30F25000 50] LinuxClient, [0000043F30BDB600][0000043F30F27800 50] LinuxArm64Client, [0000043F30BDA100][0000043F30F2A000 50] LinuxServer, [0000043F30BDAD40][0000043F30F2C800 50] LinuxArm64Server, [0000043F30BD4980][0000043F30F35000 50] Android, [0000043F30BDC400][0000043F30F40000 50] Android_Preview_OpenGL, [0000043F30BD5B00][0000043F30F45000 50] Android_Preview_Vulkan, [0000043F30BD9F40][0000043F30F47800 50] Android_Low, [0000043F30BDA9C0][0000043F30F4A000 50] Android_Mid, [0000043F30BD8340][0000043F30F4C800 50] Android_High, [0000043F30BDC080][0000043F30F22800 50] Android_Default, [0000043F30BD78C0][0000043F30F50000 50] Android_Adreno4xx, [0000043F30BD86C0][0000043F30F55000 50] Android_Adreno5xx_Low, [0000043F30BDBB40][0000043F30F57800 50] Android_Adreno5xx, [0000043F30BD8500][0000043F30F5A000 50] Android_Adreno6xx, [0000043F30BD9A00][0000043F30F5C800 50] Android_Adreno6xx_Vulkan, [0000043F30BD5940][0000043F30F42800 50] Android_Adreno7xx, [0000043F30BD9840][0000043F30F60000 50] Android_Adreno7xx_Vulkan, [0000043F30BD6900][0000043F30F65000 50] Android_Mali_T6xx, [0000043F30BDB0C0][0000043F30F67800 50] Android_Mali_T7xx, [0000043F30BD3100][0000043F30F6A000 50] Android_Mali_T8xx, [0000043F30BDCCC0][0000043F30F6C800 50] Android_Mali_G71, [0000043F30BD2680][0000043F30F52800 50] Android_Mali_G72, [0000043F30BD7540][0000043F30F70000 50] Android_Mali_G72_Vulkan, [0000043F30BDD740][0000043F30F75000 50] Android_Mali_G76, [0000043F30BDB440][0000043F30F77800 50] Android_Mali_G76_Vulkan, [0000043F30BD39C0][0000043F30F7A000 50] Android_Mali_G77, [0000043F30BDD040][0000043F30F7C800 50] Android_Mali_G77_Vulkan, [0000043F30BD5E80][0000043F30F62800 50] Android_Mali_G78, [0000043F30BD7700][0000043F30F80000 50] Android_Mali_G78_Vulkan, [0000043F30BDDC80][0000043F30F85000 50] Android_Mali_G710, [0000043F30BD47C0][0000043F30F87800 50] Android_Mali_G710_Vulkan, [0000043F30BDCE80][0000043F30F8A000 50] Android_Xclipse_920, [0000043F30BDDE40][0000043F30F8C800 50] Android_Xclipse_920_Vulkan, [0000043F30BDD200][0000043F30F72800 50] Android_Vulkan_SM5, [0000043F30BDC780][0000043F30F90000 50] Android_PowerVR_G6xxx, [0000043F30BDEE00][0000043F30F95000 50] Android_PowerVR_GT7xxx, [0000043F30BDD3C0][0000043F30F97800 50] Android_PowerVR_GE8xxx, [0000043F30BDEC40][0000043F30F9A000 50] Android_PowerVR_GM9xxx, [0000043F30BDEA80][0000043F30F9C800 50] Android_PowerVR_GM9xxx_Vulkan, [0000043F30BDE540][0000043F30F82800 50] Android_TegraK1, [0000043F30BDD900][0000043F30FA0000 50] Android_Unknown_Vulkan, [0000043F30BDEFC0][0000043F30FA5000 50] Oculus_Quest, [0000043F30BDAF00][0000043F30FA7800 50] Oculus_Quest2, [0000043F30BDE000][0000043F30FAA000 50] HoloLens, 
+[2023.02.08-18.11.09:777][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.02.08-18.11.09:870][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.02.08-18.11.10:064][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.08-18.11.10:064][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.08-18.11.10:064][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.08-18.11.10:064][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.08-18.11.10:064][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.08-18.11.10:103][  0]LogNetVersion: TopDownShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 443866300)
+[2023.02.08-18.11.10:464][  0]LogSlate: Border
+[2023.02.08-18.11.10:464][  0]LogSlate: BreadcrumbButton
+[2023.02.08-18.11.10:464][  0]LogSlate: Default
+[2023.02.08-18.11.10:464][  0]LogSlate: Icons.Save
+[2023.02.08-18.11.10:464][  0]LogSlate: Icons.Toolbar.Settings
+[2023.02.08-18.11.10:464][  0]LogSlate: ListView
+[2023.02.08-18.11.10:464][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.02.08-18.11.10:464][  0]LogSlate: SoftwareCursor_Grab
+[2023.02.08-18.11.10:464][  0]LogSlate: TableView.DarkRow
+[2023.02.08-18.11.10:464][  0]LogSlate: TableView.Row
+[2023.02.08-18.11.10:464][  0]LogSlate: TreeView
+[2023.02.08-18.11.10:997][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.11:069][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.11:069][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.11:230][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.02.08-18.11.11:230][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.02.08-18.11.11:230][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.08-18.11.11:918][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 35AC17324F7DAD32EF28C8B60E2FB16F | Instance: 1CE1041D43D04A03FFE2D786353E6DEB (DESKTOP-K4OR5D5-8624).
+[2023.02.08-18.11.12:011][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.08-18.11.12:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.08-18.11.12:067][  0]LogPython: Using Python 3.9.7
+[2023.02.08-18.11.12:936][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.12:942][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.12:963][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.12:968][  0]LogUProjectInfo: Found projects:
+[2023.02.08-18.11.13:561][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.08-18.11.13:575][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.08-18.11.13:597][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.08-18.11.13:597][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.08-18.11.13:707][  0]LogCollectionManager: Loaded 0 collections in 0.001967 seconds
+[2023.02.08-18.11.13:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Saved/Collections/' took 0.00s
+[2023.02.08-18.11.13:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Content/Developers/Vindicator/Collections/' took 0.00s
+[2023.02.08-18.11.13:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Content/Collections/' took 0.00s
+[2023.02.08-18.11.14:117][  0]LogEngine: Initializing Engine...
+[2023.02.08-18.11.14:132][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.02.08-18.11.14:134][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.02.08-18.11.14:491][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.08-18.11.14:493][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.08-18.11.14:509][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-18.11.14:550][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.08-18.11.14:556][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.08-18.11.14:577][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.08-18.11.14:580][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.08-18.11.14:580][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.02.08-18.11.14:582][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.08-18.11.14:582][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.08-18.11.14:582][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-18.11.14:582][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-18.11.14:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-18.11.14:583][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-18.11.14:583][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-18.11.14:583][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-18.11.14:583][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-18.11.14:583][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-18.11.14:584][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-18.11.14:584][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-18.11.14:584][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-18.11.14:592][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-18.11.14:620][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Arctis 5 Chat)
+[2023.02.08-18.11.14:621][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-18.11.14:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-18.11.14:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-18.11.14:650][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.02.08-18.11.14:651][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.02.08-18.11.14:652][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.02.08-18.11.14:652][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.02.08-18.11.14:652][  0]LogInit: FAudioDevice initialized.
+[2023.02.08-18.11.14:653][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.08-18.11.14:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.08-18.11.14:653][  0]LogInit: Texture streaming: Enabled
+[2023.02.08-18.11.14:682][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.02.08-18.11.14:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.08-18.11.14:711][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.02.08-18.11.14:719][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.02.08-18.11.14:719][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.02.08-18.11.16:149][  0]LogLiveCoding: Display: First instance in process group "UE_TopDownShooter_0xec404dd0", spawning console
+[2023.02.08-18.11.16:149][  0]LogLiveCoding: Display: Waiting for server
+[2023.02.08-18.11.16:149][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.02.08-18.11.16:172][  0]LogInit: Transaction tracking system initialized
+[2023.02.08-18.11.16:280][  0]BlueprintLog: New page: Editor Load
+[2023.02.08-18.11.16:568][  0]LocalizationService: Localization service is disabled
+[2023.02.08-18.11.16:624][  0]TimingProfiler: Initialize
+[2023.02.08-18.11.16:624][  0]TimingProfiler: OnSessionChanged
+[2023.02.08-18.11.16:624][  0]LoadingProfiler: Initialize
+[2023.02.08-18.11.16:624][  0]LoadingProfiler: OnSessionChanged
+[2023.02.08-18.11.16:625][  0]NetworkingProfiler: Initialize
+[2023.02.08-18.11.16:627][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.08-18.11.16:627][  0]MemoryProfiler: Initialize
+[2023.02.08-18.11.16:627][  0]MemoryProfiler: OnSessionChanged
+[2023.02.08-18.11.17:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Content/' took 0.05s
+[2023.02.08-18.11.17:462][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.02.08-18.11.17:540][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.08-18.11.17:549][  0]SourceControl: Source control is disabled
+[2023.02.08-18.11.17:551][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.325
+[2023.02.08-18.11.17:552][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Vindicator/Documents/Unreal Projects/TopDownShooter/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.08-18.11.17:556][  0]LightingResults: New page: Lighting Build
+[2023.02.08-18.11.17:564][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-18.11.17:566][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.11.17:567][  0]MapCheck: New page: Map Check
+[2023.02.08-18.11.17:567][  0]LightingResults: New page: Lighting Build
+[2023.02.08-18.11.17:577][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-18.11.17:584][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.08-18.11.18:627][  0]LogGameplayTags: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\TopDown\Blueprints\GameplayTags\S_GameplayContext.uasset: Invalid GameplayTag False found in property /Game/TopDown/Blueprints/GameplayTags/S_GameplayContext.S_GameplayContext:ContextTag_2_A0E8FDEE4771F010753D028F7C78A6F7.
+[2023.02.08-18.11.18:627][  0]LogGameplayTags: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\TopDown\Blueprints\GameplayTags\S_GameplayContext.uasset: Invalid GameplayTag False found in object S_GameplayContext.
+[2023.02.08-18.11.18:641][  0]LogGameplayTags: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\TopDown\Blueprints\GameplayTags\BPC_GameplayTags.uasset: Invalid GameplayTag False found in object K2Node_MakeStruct_0.
+[2023.02.08-18.11.19:530][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\TopDown\Blueprints\Controller\BP_TopDownController.uasset: [Compiler] InputAction Event references unknown Action 'SetDestination' for  InputAction SetDestination
+[2023.02.08-18.11.19:549][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2023.02.08-18.11.19:549][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.02.08-18.11.19:549][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2023.02.08-18.11.19:549][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.02.08-18.11.19:550][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.02.08-18.11.19:550][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2023.02.08-18.11.19:550][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\LtBelicaPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2023.02.08-18.11.19:741][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/T_TestML_Mask.T_TestML_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.19:741][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC', its maximum texture size has been explicitly set to 512.
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Blank_N.T_Blank_N (TFO_BC5, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/T_Black_Linear.T_Black_Linear (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01_N.T_AtmosphericCloudNoise01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise03.T_AtmosphericCloudNoise03 (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.T_Blue_Metal02 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_N.T_Lame_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:107][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Zero_Pose.Idle_Zero_Pose
+[2023.02.08-18.11.20:107][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer in PCD3D_SM5, Default, SM5 (DDC key hash: C31E3C120CA245223FD7E859719B9E02DD3F4EB7), compiling. 
+[2023.02.08-18.11.20:357][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_D.T_Lame_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:357][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Belica_Eye_D.T_Belica_Eye_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:357][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_N.T_Rough_Plastic_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:357][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: EB0911B74E307165E043C02874451BE4D07E3071), compiling. 
+[2023.02.08-18.11.20:535][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_LowerBody_Decals.T_Belica_LowerBody_Decals (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:535][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_New_Head in PCD3D_SM5, Default, SM5 (DDC key hash: F0645A74349DD0C4B64811ECE05C76F7DFA0FF17), compiling. 
+[2023.02.08-18.11.20:691][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Rough_Metal_N.T_Rough_Metal_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:691][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_BelicaScreen.T_BelicaScreen (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:691][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_D.T_Rough_Plastic_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:691][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody in PCD3D_SM5, Default, SM5 (DDC key hash: 697726A57E59BF9748464AB578E7DA5B48DE5257), compiling. 
+[2023.02.08-18.11.20:847][  0]LogMaterial: Display: Missing cached shadermap for M_TacArmHoloMesh in PCD3D_SM5, Default, SM5 (DDC key hash: 934515C48C18A3ABEE675E81B33693BD77E852DC), compiling. 
+[2023.02.08-18.11.20:942][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK01.T_Belica_m01_Belica_lowerbody_skin01_MASK01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:942][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Primer_Black_Metal2.T_Primer_Black_Metal2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.20:942][  0]LogMaterial: Display: Missing cached shadermap for M_EyelashMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 1981BF84A53662974BC11E98CD6798651D3E5DA8), compiling. 
+[2023.02.08-18.11.21:111][  0]LogMaterial: Display: Missing cached shadermap for M_Mouth_Master in PCD3D_SM5, Default, SM5 (DDC key hash: AC767E658C81DE66A97AD474621FE4F549321B72), compiling. 
+[2023.02.08-18.11.21:251][  0]LogMaterial: Display: Missing cached shadermap for M_HairSheet_Master2 in PCD3D_SM5, Default, SM5 (DDC key hash: 66A347AF31989D1FB6B070844EA04AAA1EE4D955), compiling. 
+[2023.02.08-18.11.21:507][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK02.T_Belica_m01_Belica_lowerbody_skin01_MASK02 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.21:507][  0]LogMaterial: Display: Missing cached shadermap for M_Belica-Hair_brown_01 in PCD3D_SM5, Default, SM5 (DDC key hash: BF7EB230D758EA9CA4D00D534108C036BCFE762B), compiling. 
+[2023.02.08-18.11.21:773][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK03.T_Belica_m01_Belica_lowerbody_skin01_MASK03 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.21:773][  0]LogMaterial: Display: Missing cached shadermap for M_EyeRefractive in PCD3D_SM5, Default, SM5 (DDC key hash: F4DE08794B2FE995117F87B78EF61154DA0CDD5E), compiling. 
+[2023.02.08-18.11.22:014][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_Blue_EyeRefractive_RightEye in PCD3D_SM5, Default, SM5 (DDC key hash: E4DE291147FD90AA582E7AE4A82D0B8BF2AC5C8F), compiling. 
+[2023.02.08-18.11.22:260][  0]LogMaterial: Display: Missing cached shadermap for M_Eye_Occlusion in PCD3D_SM5, High, SM5 (DDC key hash: DFBD4460E0E8EE186D01AF4F780B37E1828D7D10), compiling. 
+[2023.02.08-18.11.22:402][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_2_N.T_Rubber_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.22:402][  0]LogMaterial: Display: Missing cached shadermap for M_TearLine in PCD3D_SM5, Default, SM5 (DDC key hash: 55E61D1584E3E832C1BA7F22F96254AA39D8B41C), compiling. 
+[2023.02.08-18.11.22:674][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_N.T_Belica_m01_Belica_lowerbody_skin01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.22:674][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill
+[2023.02.08-18.11.22:674][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill
+[2023.02.08-18.11.22:674][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_LowContrast.T_Rubber_LowContrast (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.22:674][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_hardmetal2_D.T_hardmetal2_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.22:674][  0]LogMaterial: Display: Missing cached shadermap for M_WeaponSet_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B8578A8EE244831EAEF2FB7C1E1B4E9D601D881), compiling. 
+[2023.02.08-18.11.22:901][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_upperbody_skin00_RGB.T_Belica_upperbody_skin00_RGB (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.22:901][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Right.Jog_Fwd_Circle_Right
+[2023.02.08-18.11.22:901][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Circle_Left.Jog_Fwd_Circle_Left
+[2023.02.08-18.11.22:901][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Meshes\Belica.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.02.08-18.11.22:901][  0]LogSkeletalMesh: Building Skeletal Mesh Belica...
+[2023.02.08-18.11.22:901][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Meshes/Belica.Belica
+[2023.02.08-18.11.22:901][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mace...
+[2023.02.08-18.11.22:901][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapon_Pack/Skeletal_Mesh/SK_Mace.SK_Mace
+[2023.02.08-18.11.22:901][  0]LogMaterial: Display: Missing cached shadermap for M_WeaponSet_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F65CD07D048F80F555F346470E83460B4BAFA328), compiling. 
+[2023.02.08-18.11.22:976][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Sword...
+[2023.02.08-18.11.22:976][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Weapon_Pack/Skeletal_Mesh/SK_Sword.SK_Sword
+[2023.02.08-18.11.22:976][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: 6A3A3A8E22964FC16C532B6395D1101AE163BDE3), compiling. 
+[2023.02.08-18.11.23:166][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: 5A84E74BEB30CFC4750E1830F56054170AEA247B), compiling. 
+[2023.02.08-18.11.23:335][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd.Jog_Fwd
+[2023.02.08-18.11.23:335][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Start.Jump_Start
+[2023.02.08-18.11.23:335][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_Head_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: AEE19B7CB33260338459C9E9E6D940C9190DB43A), compiling. 
+[2023.02.08-18.11.23:514][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2023.02.08-18.11.23:514][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_PreLand.Jump_PreLand
+[2023.02.08-18.11.23:514][  0]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: C67BB3F50183AFBBCBDF39E2685E23736AE364F2), compiling. 
+[2023.02.08-18.11.23:712][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jump_Apex.Jump_Apex
+[2023.02.08-18.11.23:712][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2023.02.08-18.11.23:712][  0]LogMaterial: Display: Missing cached shadermap for MIC_Belica_Hair_Blonde in PCD3D_SM5, Default, SM5 (DDC key hash: B2DA0975D75B1A61524B27C3E203A703099C4770), compiling. 
+[2023.02.08-18.11.24:103][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2023.02.08-18.11.24:103][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Vindicator\Documents\Unreal Projects\TopDownShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\PolarStrike\Meshes\Belica_PolarStrike.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.02.08-18.11.24:103][  0]LogSkeletalMesh: Building Skeletal Mesh Belica_PolarStrike...
+[2023.02.08-18.11.24:103][  0]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Meshes/Belica_PolarStrike.Belica_PolarStrike
+[2023.02.08-18.11.24:164][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2023.02.08-18.11.24:176][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-18.11.24:176][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.08-18.11.24:194][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.08-18.11.24:205][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.02.08-18.11.25:365][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK02.T_Belica_m03_Belica_guns_skin03_MASK02 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.25:365][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_MASK01.T_Belica_m03_Belica_guns_skin03_MASK01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.25:365][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ID_Belica_weapon_Decals.T_ID_Belica_weapon_Decals (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.25:365][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_N.T_Belica_m03_Belica_guns_skin03_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.25:365][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m03_Belica_guns_skin03_RGB.T_Belica_m03_Belica_guns_skin03_RGB (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.25:365][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/R_Ability.R_Ability
+[2023.02.08-18.11.25:365][  0]LogMaterial: Display: Missing cached shadermap for M_Minion_Dusk_Parent in PCD3D_SM5, Default, SM5 (DDC key hash: 66B6ADF58624B3306D218282B0E0BB504AB3E274), compiling. 
+[2023.02.08-18.11.25:490][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Death_B.Death_B
+[2023.02.08-18.11.25:490][  0]LogMaterial: Display: Missing cached shadermap for M_Beam_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: BAF859387599DC7481D13F61615AD82396C6AD7F), compiling. 
+[2023.02.08-18.11.25:689][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Primary_Fire_Med.Primary_Fire_Med
+[2023.02.08-18.11.25:689][  0]LogSkeletalMesh: Building Skeletal Mesh Minion_Lane_Ranged_Dusk...
+[2023.02.08-18.11.25:689][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle_Relaxed.Idle_Relaxed
+[2023.02.08-18.11.25:689][  0]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Meshes/Minion_Lane_Ranged_Dusk.Minion_Lane_Ranged_Dusk
+[2023.02.08-18.11.25:689][  0]LogWorldPartition: Display: WorldPartition initialize took 1.49 sec
+[2023.02.08-18.11.25:711][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.08-18.11.25:716][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.02.08-18.11.25:748][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.08-18.11.25:750][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.08-18.11.25:751][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.647ms to complete.
+[2023.02.08-18.11.25:751][  0]LogFileHelpers: Loading map 'TopDownMap' took 8.201
+[2023.02.08-18.11.25:793][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart.LevelStart
+[2023.02.08-18.11.25:793][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.569
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: ================================================
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: Total job queries 2336, among them cache hits 0 (0.00%)
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: Shaders Compiled: 2336
+[2023.02.08-18.11.25:793][  0]LogShaderCompilers: Display: Jobs assigned 90, completed 0 (0.00%)
+[2023.02.08-18.11.25:794][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2023.02.08-18.11.25:794][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.08-18.11.25:794][  0]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 10.00 jobs/batch
+[2023.02.08-18.11.25:794][  0]LogShaderCompilers: Display: ================================================
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:954][  0]LogSlate: The tab "BottomLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.25:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.11.25:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.11.25:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.11.26:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.11.26:073][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:073][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:082][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:082][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:090][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:090][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:097][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:097][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:116][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:116][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:128][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU
+[2023.02.08-18.11.26:128][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:128][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:134][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:134][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:146][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD
+[2023.02.08-18.11.26:146][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:146][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:155][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:155][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:161][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.02.08-18.11.26:161][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.02.08-18.11.26:162][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.02.08-18.11.26:722][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC
+[2023.02.08-18.11.26:722][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBU.Idle_AO_RBU
+[2023.02.08-18.11.26:722][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBD.Idle_AO_RBD
+[2023.02.08-18.11.26:722][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.26:722][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.26:722][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.02.08-18.11.26:792][  0]LogSlate: Took 0.006878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.08-18.11.26:802][  0]LogSlate: Took 0.005510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.08-18.11.26:808][  0]LogSlate: Took 0.005377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.08-18.11.26:816][  0]LogSlate: Took 0.005682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.08-18.11.26:823][  0]LogSlate: Took 0.007229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.08-18.11.26:842][  0]LogViewport: Scene viewport resized to 1380x735, mode Windowed.
+[2023.02.08-18.11.27:009][  0]LogSlate: Took 0.009663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.08-18.11.27:711][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_RBC.Idle_AO_RBC
+[2023.02.08-18.11.27:785][  0]LogStaticMesh: Display: Building static mesh SM_Energy_1...
+[2023.02.08-18.11.27:797][  0]LogStaticMesh: Built static mesh [0.01s] /Game/sA_Megapack_v1/sA_PickupSet_1/Models/SM_Energy_1.SM_Energy_1
+[2023.02.08-18.11.27:878][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Skin/T_Pore_Specular.T_Pore_Specular (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:073][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_Face_New_spec.T_Belica_Face_New_spec (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:163][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/T_Belica_Plastic_04_N.T_Belica_Plastic_04_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:445][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_Face_RGB.T_Belica_Face_RGB (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:522][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_UpperBody_new_head_N.T_Belica_UpperBody_new_head_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:585][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Leather/T_ML_FineLeather01_N.T_ML_FineLeather01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.28:914][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_Face_D.T_Belica_Face_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.29:011][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Leather/T_ML_FineLeather01.T_ML_FineLeather01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.29:379][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK01.T_Belica_m00_Belica_upperbody_skin00_MASK01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.29:716][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK02.T_Belica_m00_Belica_upperbody_skin00_MASK02 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:118][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m00_Belica_upperbody_skin00_MASK03.T_Belica_m00_Belica_upperbody_skin00_MASK03 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:222][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_UpperBody_Decals.T_Belica_UpperBody_Decals (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:780][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise04.T_AtmosphericCloudNoise04 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:866][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_GradientLaserSoft_M.T_GradientLaserSoft_M (TFO_AutoDXT, 1024X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:867][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_ArmHolo.T_Belica_ArmHolo (TFO_AutoDXT, 1024X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.30:903][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_ShieldImpact_HexReaction_Hexes.T_ShieldImpact_HexReaction_Hexes (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:050][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_upperbody_skin00_N.T_Belica_upperbody_skin00_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:178][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyelash/T_Universal_Eyelashes_D.T_Universal_Eyelashes_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:188][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_spiritplane_arcs.T_spiritplane_arcs (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:253][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Mouth/Textures/T_Master_Mouth_1_COLOR.T_Master_Mouth_1_COLOR (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:624][  0]LogStall: Startup...
+[2023.02.08-18.11.31:626][  0]LogStall: Startup complete.
+[2023.02.08-18.11.31:647][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Mouth/Textures/T_TeethAndTongue_D.T_TeethAndTongue_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:647][  0]LogLoad: (Engine Initialization) Total time: 31.42 seconds
+[2023.02.08-18.11.31:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.08-18.11.31:718][  0]LogAssetRegistry: Asset discovery search completed in 22.4442 seconds
+[2023.02.08-18.11.31:729][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.08-18.11.31:740][  0]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Mouth/Textures/T_Master_Mouth_1_N.T_Master_Mouth_1_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.31:740][  0]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 7.610909 sec, no shader worker used.
+[2023.02.08-18.11.31:743][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.08-18.11.31:834][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Fire_B.Fire_B
+[2023.02.08-18.11.31:834][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Fire_A.Fire_A
+[2023.02.08-18.11.31:834][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Mouth/Textures/T_Master_Mouth_1_RGB.T_Master_Mouth_1_RGB (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.32:074][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Fire_A_2.Fire_A_2
+[2023.02.08-18.11.32:074][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Fire_A_1.Fire_A_1
+[2023.02.08-18.11.32:473][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/T_Caustics_2.T_Caustics_2 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.32:789][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/T_gradient_stasis.T_gradient_stasis (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.33:044][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/TestContent/T_HairClump02_Alpha.T_HairClump02_Alpha (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.33:075][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/TestContent/T_HairClump02_DyeMask.T_HairClump02_DyeMask (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.33:084][  1]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/TestContent/T_HairClump02_Depth.T_HairClump02_Depth (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.33:621][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMinions/Characters/Minions/Down_Minions/Animations/Ranged/Idle_NonCombat_A.Idle_NonCombat_A
+[2023.02.08-18.11.33:621][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/HitReact_Right_A.HitReact_Right_A
+[2023.02.08-18.11.33:792][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/HitReact_Left_A.HitReact_Left_A
+[2023.02.08-18.11.33:893][  7]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/HitReact_FullBody_A.HitReact_FullBody_A
+[2023.02.08-18.11.33:943][  8]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/HitReact_Front_A.HitReact_Front_A
+[2023.02.08-18.11.33:994][  9]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/HitReact_Back_A.HitReact_Back_A
+[2023.02.08-18.11.33:994][  9]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Death_Front_A.Death_Front_A
+[2023.02.08-18.11.34:043][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/TopDown/AI/Animation_montages/Death_Back_A.Death_Back_A
+[2023.02.08-18.11.34:043][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMinions/Characters/Minions/Down_Minions/Animations/Ranged/Jog_Fwd_Combat_A.Jog_Fwd_Combat_A
+[2023.02.08-18.11.34:093][ 11]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMinions/Characters/Minions/Down_Minions/Animations/Ranged/Idle_A.Idle_A
+[2023.02.08-18.11.34:213][ 25]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU
+[2023.02.08-18.11.34:727][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD
+[2023.02.08-18.11.34:727][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC
+[2023.02.08-18.11.34:826][ 36]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBU.Idle_AO_LBU
+[2023.02.08-18.11.34:826][ 36]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBD.Idle_AO_LBD
+[2023.02.08-18.11.34:876][ 37]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_LBC.Idle_AO_LBC
+[2023.02.08-18.11.34:876][ 37]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU
+[2023.02.08-18.11.34:927][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2023.02.08-18.11.34:927][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2023.02.08-18.11.34:980][ 38]LogTexture: Display: Building textures: /Game/ParagonMinions/FX/Textures/Tile/Noise/T_Water_Screen_Noise_Soft2.T_Water_Screen_Noise_Soft2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:044][ 39]LogTexture: Display: Building textures: /Game/ParagonMinions/FX/Textures/Fire/T_Fire_SmokeWisps_Tile.T_Fire_SmokeWisps_Tile (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:438][ 61]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2023.02.08-18.11.35:463][ 63]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/T_SparrowHair_Flow.T_SparrowHair_Flow (BGRA8, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:516][ 67]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Hair_D_01.T_Hair_D_01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:668][ 84]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Hair_grad_01.T_Hair_grad_01 (G8, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:701][ 88]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Hair_depth_01.T_Hair_depth_01 (G8, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.35:774][ 96]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Hair_ID_01.T_Hair_ID_01 (G8, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:292][ 98]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeMidPlaneDisplacement_Example.T_EyeMidPlaneDisplacement_Example (RGBA16F, 1024X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:380][ 98]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EYE_NORMALS.T_EYE_NORMALS (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:413][ 98]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_Eye_Wet_Normal.T_Eye_Wet_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:418][ 98]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_2.T_EyeIrisBaseColor_Example_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:447][ 99]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_Belica_Corona_D.T_Belica_Corona_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:506][ 99]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_DecalMask_Radial03.T_DecalMask_Radial03 (G8, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:515][ 99]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_Sphere_EYE_NORMALS.T_Sphere_EYE_NORMALS (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:532][100]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.02.08-18.11.36:569][103]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_Swirly_Noise.T_Swirly_Noise (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:569][103]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeScleraBaseColor_Example_2.T_EyeScleraBaseColor_Example_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:579][104]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_7.T_EyeIrisBaseColor_Example_7 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.36:708][114]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_EyeOcclusion2.T_EyeOcclusion2 (G8, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.37:174][150]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC (RGBA16F, 7372X3686 X1X1) (Required Memory Estimate: 518.287506 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.37:179][150]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set2_BaseColor.T_Weapon_Set2_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.37:317][160]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Belica_m01_Belica_lowerbody_skin01_RGB.T_Belica_m01_Belica_lowerbody_skin01_RGB (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.37:337][161]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set2_OcclusionRoughnessMetallic.T_Weapon_Set2_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.37:363][162]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set2_Normal.T_Weapon_Set2_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.38:638][271]LogTexture: Display: Building textures: /Game/ParagonMinions/FX/Textures/MuzzleFlashes/T_TXT_Crunch_Impact_01.T_TXT_Crunch_Impact_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.38:674][274]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_Spark_Soft.T_Spark_Soft (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.38:777][282]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Painted/T_RockFlakes.T_RockFlakes (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:077][306]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Painted/T_Cream_Painted_Metal_N.T_Cream_Painted_Metal_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:131][310]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.T_Weapon_Set1_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:187][314]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Painted/T_Cream_Paint_D.T_Cream_Paint_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:282][321]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Carbon_Color.T_Carbon_Color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:321][323]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.T_Weapon_Set1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:442][331]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_CF_Nor.T_CF_Nor (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:473][333]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.T_Weapon_Set1_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.39:677][348]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_LowerBody_PolarStrikeDecals.T_Belica_LowerBody_PolarStrikeDecals (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.40:432][418]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK02.T_Belica_m01_Belica_lowerbody_skin01_MASK02 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.40:447][420]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK01.T_Belica_m01_Belica_lowerbody_skin01_MASK01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.40:772][449]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_m01_Belica_lowerbody_skin01_MASK03.T_Belica_m01_Belica_lowerbody_skin01_MASK03 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.40:868][458]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_ML_Gold_Metal01.T_ML_Gold_Metal01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:133][475]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Working_Belica_Face_Diff_PolarStrike2.T_Working_Belica_Face_Diff_PolarStrike2 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:486][496]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_m00_Belica_upperbody_skin002_MASK01.T_Belica_m00_Belica_upperbody_skin002_MASK01 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:577][498]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_UpperBody_PolarStrikeDecals.T_Belica_UpperBody_PolarStrikeDecals (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:577][498]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Textures/T_Belica_m00_Belica_upperbody_skin002_MASK03.T_Belica_m00_Belica_upperbody_skin002_MASK03 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:667][504]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_4.T_EyeIrisBaseColor_Example_4 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.41:772][504]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Eyes/Textures/Example/T_EyeIrisBaseColor_Example_6.T_EyeIrisBaseColor_Example_6 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.42:217][534]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/SharedHairContent/FemaleHair_Straight_Belica/T_Diffuse.T_Diffuse (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.42:485][560]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Global/MaterialFunctions/T_ThinFilm_Spectrum_COLOR.T_ThinFilm_Spectrum_COLOR (TFO_AutoDXT, 256X64 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.42:533][563]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Global/FX/Textures/Tile/Noise/T_Voronoi_Cells_02.T_Voronoi_Cells_02 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.42:964][605]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_COL.T_Minion_Dusk_Super_COL (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.43:139][623]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_N.T_Minion_Dusk_Super_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.43:178][627]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Super/T_Minion_Dusk_Super_RGBAO.T_Minion_Dusk_Super_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.43:267][636]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Ranged/T_Minion_Dusk_Ranged_COL.T_Minion_Dusk_Ranged_COL (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.44:059][718]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Ranged/T_Minion_Dusk_Ranged_N.T_Minion_Dusk_Ranged_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:078][813]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Mouth/Textures/T_TeethAndTongue_N.T_TeethAndTongue_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:090][813]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Skin/T_Pore_Normals2.T_Pore_Normals2 (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:191][819]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/TestContent/T_HairClump02_Roots.T_HairClump02_Roots (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:222][821]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Hair_Alpha_01.T_Hair_Alpha_01 (G8, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:239][821]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/Hair/TestContent/T_HairClump02_ID.T_HairClump02_ID (G8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.11.45:427][836]LogTexture: Display: Building textures: /Game/ParagonMinions/Characters/Minions/Dusk_Minions/Textures/Ranged/T_Minion_Dusk_Ranged_RGBAO.T_Minion_Dusk_Ranged_RGBAO (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.02.08-18.12.08:944][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.08-18.12.08:958][941]LogWorldPartition: Display: GetPartitionedActors took 63 us
+[2023.02.08-18.12.08:959][941]LogWorldPartition: Display: GenerateStreaming took 440 us
+[2023.02.08-18.12.08:960][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-18.12.08:963][941]PIE: New page: PIE session: TopDownMap (Feb 9, 2023, 12:12:08 AM)
+[2023.02.08-18.12.08:968][941]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.08-18.12.08:968][941]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.08-18.12.08:969][941]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.08-18.12.08:974][941]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.08-18.12.08:974][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005590s)
+[2023.02.08-18.12.08:974][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.005994s)
+[2023.02.08-18.12.08:975][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-18.12.08:975][941]LogAIModule: Creating AISystem for world TopDownMap
+[2023.02.08-18.12.08:975][941]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.08-18.12.08:976][941]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.08-18.12.08:977][941]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.08-18.12.08:977][941]LogPlayLevel: PIE: World Init took: (0.002865s)
+[2023.02.08-18.12.08:984][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.08-18.12.08:987][941]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-18.12.08:987][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-18.12.08:987][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-18.12.08:988][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-18.12.08:988][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-18.12.08:988][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-18.12.08:990][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-18.12.09:019][941]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Arctis 5 Chat)
+[2023.02.08-18.12.09:019][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-18.12.09:019][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-18.12.09:019][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-18.12.09:020][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.08-18.12.09:020][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.08-18.12.09:022][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.08-18.12.09:022][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.08-18.12.09:022][941]LogInit: FAudioDevice initialized.
+[2023.02.08-18.12.09:022][941]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2023.02.08-18.12.09:040][941]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.02.08-18.12.09:042][941]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.02.08-21.12.09
+[2023.02.08-18.12.09:042][941]LogWorld: Bringing up level for play took: 0.001726
+[2023.02.08-18.12.09:044][941]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.02.08-18.12.09:080][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.02.08-18.12.09:088][941]LogWorldPartition: New Streaming Source: BP_TopDownShooterController_C_0 -> Position: X=488.939 Y=1810.000 Z=98.338
+[2023.02.08-18.12.09:088][941]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.08-18.12.09:095][941]PIE: Server logged in
+[2023.02.08-18.12.09:096][941]PIE: Play in editor total start time 0.14 seconds.
+[2023.02.08-18.12.17:434][601]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading started
+[2023.02.08-18.12.18:156][649]LogBlueprintUserMessages: [BP_BotProjectile_C_0] Damaged Mesh
+[2023.02.08-18.12.19:372][723]LogBlueprintUserMessages: [BP_BotProjectile_C_1] Damaged Mesh
+[2023.02.08-18.12.19:443][730]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading finished
+[2023.02.08-18.12.22:539][967]LogBlueprintUserMessages: [BP_BotProjectile_C_2] Damaged Mesh
+[2023.02.08-18.12.23:783][ 48]LogBlueprintUserMessages: [BP_BotProjectile_C_3] Damaged Mesh
+[2023.02.08-18.12.23:960][ 65]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading started
+[2023.02.08-18.12.24:891][133]LogBlueprintUserMessages: [BP_BotProjectile_C_4] Damaged Mesh
+[2023.02.08-18.12.25:961][237]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading finished
+[2023.02.08-18.12.26:068][246]LogBlueprintUserMessages: [BP_BotProjectile_C_5] Damaged Mesh
+[2023.02.08-18.12.27:196][353]LogBlueprintUserMessages: [BP_BotProjectile_C_6] Damaged Mesh
+[2023.02.08-18.12.28:346][460]LogBlueprintUserMessages: [BP_BotProjectile_C_7] Damaged Mesh
+[2023.02.08-18.12.29:553][577]LogBlueprintUserMessages: [BP_BotProjectile_C_8] Damaged Mesh
+[2023.02.08-18.12.30:700][685]LogBlueprintUserMessages: [BP_BotProjectile_C_9] Damaged Mesh
+[2023.02.08-18.12.31:772][787]LogBlueprintUserMessages: [BP_BotProjectile_C_10] Damaged Mesh
+[2023.02.08-18.12.31:908][800]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading started
+[2023.02.08-18.12.33:011][901]LogBlueprintUserMessages: [BP_BotProjectile_C_11] Damaged Mesh
+[2023.02.08-18.12.33:915][988]LogBlueprintUserMessages: [BP_Belica_Class_C_0] Reloading finished
+[2023.02.08-18.12.34:161][  8]LogBlueprintUserMessages: [BP_BotProjectile_C_12] Damaged Mesh
+[2023.02.08-18.12.35:307][121]LogBlueprintUserMessages: [BP_BotProjectile_C_13] Damaged Mesh
+[2023.02.08-18.12.37:609][347]LogBlueprintUserMessages: [BP_BotProjectile_C_14] Damaged Mesh
+[2023.02.08-18.12.41:720][740]LogBlueprintUserMessages: [BP_BotProjectile_C_15] Damaged Mesh
+[2023.02.08-18.12.42:726][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.12.42:726][833]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.02.08-18.12.42:727][833]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-18.12.42:727][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.12.42:740][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-18.12.42:746][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-18.12.42:755][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-18.12.42:755][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.08-18.12.42:757][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.08-18.12.42:763][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-18.12.42:767][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.08-18.12.42:831][834]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.02.08-18.12.45:071][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Character/BP_TopDownCustomCharacter.BP_TopDownCustomCharacter
+[2023.02.08-18.12.45:073][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
